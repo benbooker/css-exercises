@@ -1,19 +1,22 @@
-.class_1,
-.class_2 {
+* {
+    font-size: 18;
+  }
+
+.odd {
     background-color: #de3162a0;
     font-family: "Verdana", "DejaVu Sans", "sans-serif";
 }
 
-.class_2 {
-    font-size: 24px;
-}
-
-#id_1 {
+#two {
     color: blue;
     font-size: 36px;
 }
 
-#id_2 {
+#three {
+    font-size: 24px;
+}
+
+#four {
     background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;
