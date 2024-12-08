@@ -10,7 +10,29 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  margin: 10px;
 }
+
+
+/* solution */
+
+body {
+  text-align: center;
+}
+
+.flowers {
+  display:flex;
+  justify-content: space-around;
+  margin:22px;
+}
+
+.flower {
+  width:200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 
 /* do not edit this footer */
 .footer {
